@@ -16,7 +16,7 @@
 - Auxiliar: Valentina Medina Santinon
 
 ## Alumnas
-- Camila Noemí Pereira  
+- Camila Noemí Pereira
 - Zarina Cristal Scalise  
 
 ## Fecha de entrega
@@ -64,7 +64,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 02_InfoMed_TP4_ScalisePereira.sql](./02_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 02](./Capturas/consulta_02.png)
+![Output 02a](./Capturas/consulta_02_a.png)  
+![Output 02b](./Capturas/consulta_02_b.png)  
+![Output 02c](./Capturas/consulta_02_c.png)
 
 ---
 
@@ -73,7 +75,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 03_InfoMed_TP4_ScalisePereira.sql](./03_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 03](./Capturas/consulta_03.png)
+![Output 03a](./Capturas/consulta_03_a.png)  
+![Output 03b](./Capturas/consulta_03_b.png)
 
 ---
 
@@ -91,7 +94,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 05_InfoMed_TP4_ScalisePereira.sql](./05_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 05](./Capturas/consulta_05.png)
+![Output 05a](./Capturas/consulta_05_a.png)  
+![Output 05b](./Capturas/consulta_05_b.png)
 
 ---
 
@@ -127,7 +131,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 09_InfoMed_TP4_ScalisePereira.sql](./09_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 09](./Capturas/consulta_09.png)
+![Output 09a](./Capturas/consulta_09_a.png)  
+![Output 09b](./Capturas/consulta_09_b.png)
 
 ---
 
@@ -145,7 +150,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 11_InfoMed_TP4_ScalisePereira.sql](./11_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 11](./Capturas/consulta_11.png)
+![Output 11a](./Capturas/consulta_11_a.png)  
+![Output 11b](./Capturas/consulta_11_b.png)  
+![Output 11c](./Capturas/consulta_11_c.png)
 
 ---
 
@@ -163,7 +170,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 13_InfoMed_TP4_ScalisePereira.sql](./13_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 13](./Capturas/consulta_13.png)
+![Output 13a](./Capturas/consulta_13_a.png)  
+![Output 13b](./Capturas/consulta_13_b.png)
 
 ---
 
@@ -181,7 +189,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 15_InfoMed_TP4_ScalisePereira.sql](./15_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 15](./Capturas/consulta_15.png)
+![Output 15a](./Capturas/consulta_15_a.png)  
+![Output 15b](./Capturas/consulta_15_b.png)
 
 ---
 
@@ -190,7 +199,11 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 16_InfoMed_TP4_ScalisePereira.sql](./16_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 16](./Capturas/consulta_16.png)
+![Output 16a](./Capturas/consulta_16_a.png)  
+![Output 16b](./Capturas/consulta_16_b.png)  
+![Output 16c](./Capturas/consulta_16_c.png)  
+![Output 16d](./Capturas/consulta_16_d.png)  
+![Output 16e](./Capturas/consulta_16_e.png)
 
 ---
 
@@ -199,7 +212,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 [Ver archivo 17_InfoMed_TP4_ScalisePereira.sql](./17_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 17](./Capturas/consulta_17.png)
+![Output 17a](./Capturas/consulta_17_a.png)  
+![Output 17b](./Capturas/consulta_17_b.png)  
+![Output 17c](./Capturas/consulta_17_c.png)
 
 ---
 
