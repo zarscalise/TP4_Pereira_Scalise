@@ -33,11 +33,11 @@ La base de datos que plantea la consigna es una base de datos relacional, puesto
 
 ### 2. Diagrama de Entidades y Relaciones
 
-![entidades](./capturas/entidades.png)
+![entidades](./Capturas/entidades.png)
 
 ### 3. Modelo relacional
 
-![relacional](./capturas/modelo_relacional.png)
+![relacional](./Capturas/modelo_relacional.png)
 
 ### 4. ¿Está normalizada?
 
@@ -58,7 +58,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 01](./capturas/consulta_01.png)
+![Output 01](./Capturas/consulta_01.png)
 
 ---
 
@@ -69,9 +69,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 02](./capturas/consulta_02a.png)
-![Output 02](./capturas/consulta_02b.png)
-![Output 02](./capturas/consulta_02c.png)
+![Output 02](./Capturas/consulta_02_a.png)
+![Output 02](./Capturas/consulta_02_b.png)
+![Output 02](./Capturas/consulta_02_c.png)
 
 ---
 
@@ -82,8 +82,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 03](./capturas/consulta_03a.png)
-![Output 03](./capturas/consulta_03b.png)
+![Output 03](./Capturas/consulta_03_a.png)
+![Output 03](./Capturas/consulta_03_b.png)
 
 ---
 
@@ -94,7 +94,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 04](./capturas/consulta_04.png)
+![Output 04](./Capturas/consulta_04.png)
 
 ---
 
@@ -105,8 +105,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 05](./capturas/consulta_05a.png)
-![Output 05](./capturas/consulta_05b.png)
+![Output 05](./Capturas/consulta_05_a.png)
+![Output 05](./Capturas/consulta_05_b.png)
 
 ---
 
@@ -117,7 +117,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 06](./capturas/consulta_06.png)
+![Output 06](./Capturas/consulta_06.png)
 
 ---
 
@@ -128,7 +128,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 07](./capturas/consulta_07.png)
+![Output 07](./Capturas/consulta_07.png)
 
 ---
 
@@ -139,7 +139,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 08](./capturas/consulta_08.png)
+![Output 08](./Capturas/consulta_08.png)
 
 ---
 
@@ -150,8 +150,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 09](./capturas/consulta_09a.png)
-![Output 09](./capturas/consulta_09b.png)
+![Output 09](./Capturas/consulta_09_a.png)
+![Output 09](./Capturas/consulta_09_b.png)
 
 ---
 
@@ -162,7 +162,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 10](./capturas/consulta_10.png)
+![Output 10](./Capturas/consulta_10.png)
 
 ---
 
@@ -173,9 +173,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 11](./capturas/consulta_11a.png)
-![Output 11](./capturas/consulta_11b.png)
-![Output 11](./capturas/consulta_11c.png)
+![Output 11](./Capturas/consulta_11_a.png)
+![Output 11](./Capturas/consulta_11_b.png)
+![Output 11](./Capturas/consulta_11_c.png)
 
 ---
 
@@ -186,7 +186,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 12](./capturas/consulta_12.png)
+![Output 12](./Capturas/consulta_12.png)
 
 ---
 
@@ -197,8 +197,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 13](./capturas/consulta_13a.png)
-![Output 13](./capturas/consulta_13b.png)
+![Output 13](./Capturas/consulta_13_a.png)
+![Output 13](./Capturas/consulta_13_b.png)
 
 ---
 
@@ -209,7 +209,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 14](./capturas/consulta_14.png)
+![Output 14](./Capturas/consulta_14.png)
 
 ---
 
@@ -220,8 +220,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 15](./capturas/consulta_15a.png)
-![Output 15](./capturas/consulta_15b.png)
+![Output 15](./Capturas/consulta_15_a.png)
+![Output 15](./Capturas/consulta_15_b.png)
 
 ---
 
@@ -232,11 +232,11 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 16](./capturas/consulta_16a.png)
-![Output 16](./capturas/consulta_16b.png)
-![Output 16](./capturas/consulta_16c.png)
-![Output 16](./capturas/consulta_16d.png)
-![Output 16](./capturas/consulta_16e.png)
+![Output 16](./Capturas/consulta_16_a.png)
+![Output 16](./Capturas/consulta_16_b.png)
+![Output 16](./Capturas/consulta_16_c.png)
+![Output 16](./Capturas/consulta_16_d.png)
+![Output 16](./Capturas/consulta_16_e.png)
 
 ---
 
@@ -247,9 +247,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 17](./capturas/consulta_17a.png)
-![Output 17](./capturas/consulta_17b.png)
-![Output 17](./capturas/consulta_17c.png)
+![Output 17](./Capturas/consulta_17_a.png)
+![Output 17](./Capturas/consulta_17_b.png)
+![Output 17](./Capturas/consulta_17_c.png)
 
 ---
 
@@ -260,5 +260,5 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 18](./capturas/consulta_18.png)
+![Output 18](./Capturas/consulta_18.png)
 
