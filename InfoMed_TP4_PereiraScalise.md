@@ -54,7 +54,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ## Consulta 01
 
 ```sql
--- Contenido del archivo 01_InfoMed_TP5_ScalisePereira.sql
+-- Contenido del archivo 01_InfoMed_TP4_ScalisePereira.sql
 ```
 
 **Resultado esperado:**  
