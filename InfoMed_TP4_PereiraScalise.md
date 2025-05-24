@@ -33,15 +33,15 @@ La base de datos que plantea la consigna es una base de datos relacional, puesto
 
 ### 2. Diagrama de Entidades y Relaciones
 
-FOTO ACA
+![entidades](./capturas/entidades.png)
 
 ### 3. Modelo relacional
 
-FOTO ACA
+![relacional](./capturas/modelo_relacional.png)
 
 ### 4. ¿Está normalizada?
 
-FALTA
+La base no se considera que esté del todo normalizada pues hay algunas cosas que podrían mejorarse o separarse más. Por ejemplo, en la tabla de médicos, hay datos como el nombre, especialidad, teléfono, mail y matrícula todos juntos. Quizás podría separarse en dos tablas distintas: una con la información básica del médico (nombre y matrícula) y otra con sus datos de contacto, así no se repite si un médico trabaja en más de un lugar. También podría pensarse en sacar los datos de la dirección de los pacientes (calle, número, ciudad) a otra tabla aparte, especialmente si muchos pacientes viven en la misma ciudad, para evitar repetir siempre lo mismo. Entonces, si se quisiera normalizar la base, lo que se haría sería revisar qué datos se repiten seguido y separarlos en tablas nuevas, relacionadas por ID. Esto ayudaría a tener todo más ordenado, evitar errores si hay que actualizar algún dato, y hacer más fácil el mantenimiento general de la base.
 
 ---
 
@@ -69,7 +69,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 02](./capturas/consulta_02.png)
+![Output 02](./capturas/consulta_02a.png)
+![Output 02](./capturas/consulta_02b.png)
+![Output 02](./capturas/consulta_02c.png)
 
 ---
 
@@ -80,7 +82,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 03](./capturas/consulta_03.png)
+![Output 03](./capturas/consulta_03a.png)
+![Output 03](./capturas/consulta_03b.png)
 
 ---
 
@@ -102,7 +105,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 05](./capturas/consulta_05.png)
+![Output 05](./capturas/consulta_05a.png)
+![Output 05](./capturas/consulta_05b.png)
 
 ---
 
@@ -146,7 +150,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 09](./capturas/consulta_09.png)
+![Output 09](./capturas/consulta_09a.png)
+![Output 09](./capturas/consulta_09b.png)
 
 ---
 
@@ -168,7 +173,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 11](./capturas/consulta_11.png)
+![Output 11](./capturas/consulta_11a.png)
+![Output 11](./capturas/consulta_11b.png)
+![Output 11](./capturas/consulta_11c.png)
 
 ---
 
@@ -190,7 +197,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 13](./capturas/consulta_13.png)
+![Output 13](./capturas/consulta_13a.png)
+![Output 13](./capturas/consulta_13b.png)
 
 ---
 
@@ -212,7 +220,8 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 15](./capturas/consulta_15.png)
+![Output 15](./capturas/consulta_15a.png)
+![Output 15](./capturas/consulta_15b.png)
 
 ---
 
@@ -223,7 +232,11 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 16](./capturas/consulta_16.png)
+![Output 16](./capturas/consulta_16a.png)
+![Output 16](./capturas/consulta_16b.png)
+![Output 16](./capturas/consulta_16c.png)
+![Output 16](./capturas/consulta_16d.png)
+![Output 16](./capturas/consulta_16e.png)
 
 ---
 
@@ -234,7 +247,9 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 ```
 
 **Resultado esperado:**  
-![Output 17](./capturas/consulta_17.png)
+![Output 17](./capturas/consulta_17a.png)
+![Output 17](./capturas/consulta_17b.png)
+![Output 17](./capturas/consulta_17c.png)
 
 ---
 
