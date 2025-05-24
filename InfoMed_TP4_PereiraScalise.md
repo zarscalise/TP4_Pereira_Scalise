@@ -16,14 +16,13 @@
 - Auxiliar: Valentina Medina Santinon
 
 ## Alumnas
-- Camila Noemí Pereira
+- Camila Noemí Pereira  
 - Zarina Cristal Scalise  
 
 ## Fecha de entrega
 26/05/2025
 
 ---
-
 
 # Parte 1: Bases de datos
 
@@ -53,9 +52,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 01
 
-```sql
--- Contenido del archivo 01_InfoMed_TP4_ScalisePereira.sql
-```
+[Ver archivo 01_InfoMed_TP4_ScalisePereira.sql](./01_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 01](./Capturas/consulta_01.png)
@@ -64,34 +61,25 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 02
 
-```sql
--- Contenido del archivo 02_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 02_InfoMed_TP4_ScalisePereira.sql](./02_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 02](./Capturas/consulta_02_a.png)
-![Output 02](./Capturas/consulta_02_b.png)
-![Output 02](./Capturas/consulta_02_c.png)
+![Output 02](./Capturas/consulta_02.png)
 
 ---
 
 ## Consulta 03
 
-```sql
--- Contenido del archivo 03_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 03_InfoMed_TP4_ScalisePereira.sql](./03_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 03](./Capturas/consulta_03_a.png)
-![Output 03](./Capturas/consulta_03_b.png)
+![Output 03](./Capturas/consulta_03.png)
 
 ---
 
 ## Consulta 04
 
-```sql
--- Contenido del archivo 04_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 04_InfoMed_TP4_ScalisePereira.sql](./04_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 04](./Capturas/consulta_04.png)
@@ -100,21 +88,16 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 05
 
-```sql
--- Contenido del archivo 05_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 05_InfoMed_TP4_ScalisePereira.sql](./05_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 05](./Capturas/consulta_05_a.png)
-![Output 05](./Capturas/consulta_05_b.png)
+![Output 05](./Capturas/consulta_05.png)
 
 ---
 
 ## Consulta 06
 
-```sql
--- Contenido del archivo 06_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 06_InfoMed_TP4_ScalisePereira.sql](./06_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 06](./Capturas/consulta_06.png)
@@ -123,9 +106,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 07
 
-```sql
--- Contenido del archivo 07_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 07_InfoMed_TP4_ScalisePereira.sql](./07_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 07](./Capturas/consulta_07.png)
@@ -134,9 +115,7 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 08
 
-```sql
--- Contenido del archivo 08_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 08_InfoMed_TP4_ScalisePereira.sql](./08_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 08](./Capturas/consulta_08.png)
@@ -145,21 +124,16 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 09
 
-```sql
--- Contenido del archivo 09_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 09_InfoMed_TP4_ScalisePereira.sql](./09_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 09](./Capturas/consulta_09_a.png)
-![Output 09](./Capturas/consulta_09_b.png)
+![Output 09](./Capturas/consulta_09.png)
 
 ---
 
 ## Consulta 10
 
-```sql
--- Contenido del archivo 10_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 10_InfoMed_TP4_ScalisePereira.sql](./10_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 10](./Capturas/consulta_10.png)
@@ -168,22 +142,16 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 11
 
-```sql
--- Contenido del archivo 11_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 11_InfoMed_TP4_ScalisePereira.sql](./11_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 11](./Capturas/consulta_11_a.png)
-![Output 11](./Capturas/consulta_11_b.png)
-![Output 11](./Capturas/consulta_11_c.png)
+![Output 11](./Capturas/consulta_11.png)
 
 ---
 
 ## Consulta 12
 
-```sql
--- Contenido del archivo 12_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 12_InfoMed_TP4_ScalisePereira.sql](./12_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 12](./Capturas/consulta_12.png)
@@ -192,21 +160,16 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 13
 
-```sql
--- Contenido del archivo 13_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 13_InfoMed_TP4_ScalisePereira.sql](./13_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 13](./Capturas/consulta_13_a.png)
-![Output 13](./Capturas/consulta_13_b.png)
+![Output 13](./Capturas/consulta_13.png)
 
 ---
 
 ## Consulta 14
 
-```sql
--- Contenido del archivo 14_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 14_InfoMed_TP4_ScalisePereira.sql](./14_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 14](./Capturas/consulta_14.png)
@@ -215,50 +178,34 @@ A continuación se presentan las consultas SQL junto a capturas de pantalla del 
 
 ## Consulta 15
 
-```sql
--- Contenido del archivo 15_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 15_InfoMed_TP4_ScalisePereira.sql](./15_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 15](./Capturas/consulta_15_a.png)
-![Output 15](./Capturas/consulta_15_b.png)
+![Output 15](./Capturas/consulta_15.png)
 
 ---
 
 ## Consulta 16
 
-```sql
--- Contenido del archivo 16_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 16_InfoMed_TP4_ScalisePereira.sql](./16_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 16](./Capturas/consulta_16_a.png)
-![Output 16](./Capturas/consulta_16_b.png)
-![Output 16](./Capturas/consulta_16_c.png)
-![Output 16](./Capturas/consulta_16_d.png)
-![Output 16](./Capturas/consulta_16_e.png)
+![Output 16](./Capturas/consulta_16.png)
 
 ---
 
 ## Consulta 17
 
-```sql
--- Contenido del archivo 17_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 17_InfoMed_TP4_ScalisePereira.sql](./17_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
-![Output 17](./Capturas/consulta_17_a.png)
-![Output 17](./Capturas/consulta_17_b.png)
-![Output 17](./Capturas/consulta_17_c.png)
+![Output 17](./Capturas/consulta_17.png)
 
 ---
 
 ## Consulta 18
 
-```sql
--- Contenido del archivo 18_InfoMed_TP5_ScalisePereira.sql
-```
+[Ver archivo 18_InfoMed_TP4_ScalisePereira.sql](./18_InfoMed_TP4_ScalisePereira.sql)
 
 **Resultado esperado:**  
 ![Output 18](./Capturas/consulta_18.png)
-
